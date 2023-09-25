@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript** ♨️
 
-- 📝 Sometimes I write some articles about my work in <a hred="https://www.linkedin.com/in/david-sotelo-rodr%C3%ADguez-a8b313152/">Linkedin</a>
+- 📝 Sometimes I write some articles about my work in <a href="https://www.linkedin.com/in/david-sotelo-rodr%C3%ADguez-a8b313152/">Linkedin</a>
 
 - 📫 You can contact me in **davidsotelorodriguez99@gmail.com**
 
