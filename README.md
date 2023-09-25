@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A Junior Full Stack Developer studying in an intensive school 📚</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsotelo26" alt="davidsotelo26" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/david-sotelo-rodr%C3%ADguez-a8b313152/](https://www.linkedin.com/in/david-sotelo-rodr%C3%ADguez-a8b313152/)
