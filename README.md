@@ -13,5 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-sotelo-rodríguez-a8b313152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-sotelo-rodríguez-a8b313152" height="30" width="40" /></a>
+<p></p>
 <a href="https://instagram.com/sote.dj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sote.dj" height="30" width="40" /></a>
 </p>
