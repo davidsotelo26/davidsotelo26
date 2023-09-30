@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi, I'm David 👋</h1>
 <h3 align="center">A Junior Full Stack Developer studying in an intensive school 📚</h3>
 
 - 🌱 I’m currently learning **JavaScript** ♨️
