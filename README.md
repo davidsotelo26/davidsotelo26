@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David 👋</h1>
 <h3 align="center">A Junior Full Stack Developer studying in an intensive school 📚</h3>
 
-- 🌱 I’m currently learning **JavaScript** ♨️
+- 🌱 I’m currently learning **Angular** ♨️
 
 - 📝 Sometimes I write some articles about my work in <a href="https://www.linkedin.com/in/david-sotelo-rodr%C3%ADguez-a8b313152/">Linkedin</a>
 
